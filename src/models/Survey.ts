@@ -17,5 +17,4 @@ class Survey {
   }
 }
 
-
 export { Survey };
